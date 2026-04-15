@@ -1,5 +1,5 @@
 # 💫 About Me:
-ython Developer | HTML, Javascript, CSS | Computer Fundamentals Enthusiast | Keen interest in DSA | Mathematically Driven |
+Python Developer | HTML, Javascript, CSS | Computer Fundamentals Enthusiast | Keen interest in DSA | Mathematically Driven |
 
 
 ## 🌐 Socials:
